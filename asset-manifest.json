@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/css/main.f855e6bc.css",
-    "main.js": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/js/main.2a484e2e.js",
-    "static/js/787.0442c904.chunk.js": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/js/787.0442c904.chunk.js",
-    "index.html": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/index.html",
-    "main.f855e6bc.css.map": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/css/main.f855e6bc.css.map",
-    "main.2a484e2e.js.map": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/js/main.2a484e2e.js.map",
-    "787.0442c904.chunk.js.map": "/akshit-wizcomtech.github.io/wordsdemo.git/index.html/static/js/787.0442c904.chunk.js.map"
+    "main.css": "/wordsdemo.git/static/css/main.f855e6bc.css",
+    "main.js": "/wordsdemo.git/static/js/main.c95bc34f.js",
+    "static/js/787.0442c904.chunk.js": "/wordsdemo.git/static/js/787.0442c904.chunk.js",
+    "index.html": "/wordsdemo.git/index.html",
+    "main.f855e6bc.css.map": "/wordsdemo.git/static/css/main.f855e6bc.css.map",
+    "main.c95bc34f.js.map": "/wordsdemo.git/static/js/main.c95bc34f.js.map",
+    "787.0442c904.chunk.js.map": "/wordsdemo.git/static/js/787.0442c904.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2a484e2e.js"
+    "static/js/main.c95bc34f.js"
   ]
 }
